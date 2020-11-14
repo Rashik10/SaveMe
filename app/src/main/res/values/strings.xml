@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Save Me</string>
+    <string name="about_app">This app may help you when you will fall in danger. You can send your current location and seek help from your friend by using this app.\n
+    \n\nWhat it does:\n\n
+        When you will fall in a danger and you need help urgently from your friend or family you can send message with your location by using this app. Moreover by using
+        \"Emergency Help\" button you can message your five friends with your location and you can call emergency help line 999. So your friends will be known about your danger.
+        \n\n
+        How to use it:\n\n
+        1. Firstly you have to set five numbers of your five friends so that at emergency time they can help you by clicking \"click here\" button.\n
+        2. Then you can send your location to your desire person by clicking "Seek Help" button and you should fill up your message and phone number option.\n
+        3. By long pressing on  \"Emergency Help\" button you can send your location to your 5 friends with a message that you are in trouble.\n
+        4. \"Emergency Help\" button will call 999 to get emergency help if you make a long press.\n\n
+        And like this your friends will konow about your danger and they can help you.
+    </string>
+</resources>
